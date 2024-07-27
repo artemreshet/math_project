@@ -1,16 +1,19 @@
 body {
     margin: 0px 10px;
-    background: #c2cad0;
+    background: #F7E7DC;
     font-family: Arial, Helvetica, sans-serif;
-    color: #2c3531;
+    color: #283c4a;
 }
 footer, header {
     text-align: right;
-    background: #2c3531;
-    color: #c2cad0;
+    background: #405D72;
+    color: #F7E7DC;
     height: auto;
     padding: 5px 10px;
 }
 header {
     text-align: center;
+}
+.title{
+    color: rgb(47, 0, 47);
 }
